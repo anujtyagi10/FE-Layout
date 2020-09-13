@@ -157,3 +157,11 @@
     text-align: start;
     padding: 0px;
 }
+footer{
+        background-color: mediumturquoise;
+    font-family: cursive;
+    font-style: italic;
+    font-variant: all-petite-caps;
+    font-weight: 400;
+    text-align: center;
+}
